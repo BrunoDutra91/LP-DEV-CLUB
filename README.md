@@ -4,7 +4,7 @@
 ![Badge Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 
 ## 📷 Demonstração
-<img width="900" height="500" src="https://github.com/BrunoDutra91/LP-DEV-CLUB/blob/master/Captura%20de%20tela%202025-03-09%20194727.png?raw=true">
+<img width="900" height="500" src="https://github.com/BrunoDutra91/LP-DEV-CLUB/blob/master/img/Captura%20de%20tela%202025-03-09%20194727.png?raw=true">
 
 ## 📘 Descrição
 Este projeto é uma landing page interativa que apresenta uma galeria de carros, permitindo que os usuários visualizem imagens, nomes e descrições dos modelos, além de navegar entre eles com facilidade.<br>
