@@ -27,7 +27,7 @@ A landing page foi criada para destacar diferentes modelos de carros de forma vi
 
 ## 🌐 Deploy
 <div align="center"> 
-<a href="[https://felipeaz01.github.io/Frutas-Drink/](https://felipeaz01.github.io/fp-project-master/)">
+<a href="[https://brunodutra91.github.io/LP-DEV-CLUB//)">
   <img   width="120px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"  /> 
 </a>
 </div>
