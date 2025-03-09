@@ -27,7 +27,7 @@ A landing page foi criada para destacar diferentes modelos de carros de forma vi
 
 ## 🌐 Deploy
 <div align="center"> 
-<a href="[https://brunodutra91.github.io/LP-DEV-CLUB//)">
+<a href="https://brunodutra91.github.io/LP-DEV-CLUB/)">
   <img   width="120px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"  /> 
 </a>
 </div>
