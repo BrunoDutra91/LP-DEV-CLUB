@@ -4,7 +4,7 @@
 ![Badge Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 
 ## 📷 Demonstração
-<img width="900" height="500" src="https://github.com/user-attachments/assets/d1c7f074-3507-4658-bcb1-a458e9af5db3">
+<img width="900" height="500" src="http://127.0.0.1:5500/img/Ferrari.png">
 
 ## 📘 Descrição
 Este projeto é uma landing page interativa que apresenta uma galeria de carros, permitindo que os usuários visualizem imagens, nomes e descrições dos modelos, além de navegar entre eles com facilidade.<br>
